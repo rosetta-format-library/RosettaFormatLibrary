@@ -9,4 +9,5 @@
 |PRONOM v107|DROID signature file v107 will be added to FL|December 2022|7.3108|PRONOM|ANZ|in process/testing RC|
 |JHOVE 1.26|adding JHOVE 1.26 modules when JHOVE 1.26 available|December 2022|7.3108|Plugins|ANZ|in process/testing RC|
 |veraPDF mapping|possibly adding veraPDF mapping to Format Library so "canonical" mapping for veraPDF plugin is available|Q1 2023|not known yet|Mapping|ANZ/TIB|planned|
-|PRONOM v106|DROID signature file v106 will be added to FL|November 2022|7.2106|PRONOM|ANZ|in process/testing RC|
+|PRONOM v106|DROID signature file v106 will be added to FL|November 2022|7.2106|PRONOM|ANZ| **DONE - released 21/11/2022**|
+|PRONOM v105|DROID signature file v105 will be added to FL|November 2022|7.2106|PRONOM|ANZ| **DONE - released 21/11/2022**|

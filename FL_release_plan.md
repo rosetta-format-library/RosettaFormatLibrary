@@ -1,13 +1,14 @@
 # Rosetta Format Library Release Plan
 | What        | Description           | To be released  | FL version to be included in | Category | Responsible | Status
 | :------------- |:-------------| :-----| :-----| :-----| :-----| :-----|
-| PRONOM v116  | DROID signature file v116 will be added to FL (incl. v113, 114, 115) | Q1 2024 | 8.0116 | PRONOM | ANZ | testing RC
 | Format library refresh  | making format names and versions consistent with PRONOM for PUIDs up to fmt/1446 (it was updated since fmt/1447) | will be continuously added to releases | 7.3108 on | Format Library | ANZ | ongoing
-| Application Library refresh | adding new applications and linking them to relevant formats - results from RWG Hackathon 2022 | will be continously added to releases | 7.3108 on | Application Library | ANZ/KBNL | first set of applications added to 7.3108
-| DROID 6.7.0 | adding new DROID version | Q1 2024 |  | PRONOM | ANZ | planned
-| JHOVE 1.28 | adding new JHOVE version to FL | Q1 2024 | 8.0116 | PRONOM | ANZ | testing RC
-|adding new significant properties|to work on new significant properties added during Hack-a-thon and possibly add those to next FL release|Q1 2024|8.0116|Mapping|ANZ| testing RC|
+| Application Library refresh | adding new applications and linking them to relevant formats - results from RWG Hackathon 2022 | will be continously added to releases | 7.3108 on | Application Library | ANZ/KBNL | ongoing; first set of applications added to 7.3108
+| DROID 6.7.0 | adding new DROID version | Q2 2024 | not known yet | PRONOM | ANZ | planned
+| JHOVE 1.30 | adding new JHOVE version to FL | Q2 2024 | not known yet | plugins | ANZ | planned
 |veraPDF mapping|possibly adding veraPDF mapping to Format Library so "canonical" mapping for veraPDF plugin is available|Q4 2023|not known yet|Mapping|ANZ/TIB|planned|
+| PRONOM v116  | DROID signature file v116 will be added to FL (incl. v113, 114, 115) | Q1 2024 | 8.0116 | PRONOM | ANZ | **DONE - released 7/3/2024 in 8.0116**
+| JHOVE 1.28 | adding new JHOVE version to FL | Q1 2024 | 8.0116 | plugins | ANZ | **DONE - released 7/3/2024 in 8.0116**
+|adding new significant properties|to work on new significant properties added during Hack-a-thon and possibly add those to next FL release|Q1 2024|8.0116|Mapping|ANZ| **DONE - released 7/3/2024 in 8.0116**|
 | PRONOM v114  | DROID signature file v114 will be added to FL (incl. v113) | Q4 2023 | 8.0114 | PRONOM | ANZ | **DONE - will be part of 8.0116**
 | PRONOM v112  | DROID signature file v112 will be added to FL (incl. v110, v111) | Q3 2023 | 7.4112 | PRONOM | ANZ | **DONE - released 26/10/2023**
 |DROID 6.6.1 | adding new DROID version | Q3 2023 | 7.4112 | PRONOM | ANZ | **DONE - released 26/10/2023**

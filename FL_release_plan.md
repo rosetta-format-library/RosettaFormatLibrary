@@ -1,7 +1,7 @@
 # Rosetta Format Library Release Plan
 | What        | Description           | To be released  | FL version to be included in | Category | Responsible | Status
 | :------------- |:-------------| :-----| :-----| :-----| :-----| :-----|
-| JHOVE 1.34.0 | adding new JHOVE version to FL | Q3 2025 | NA | plugins | ANZ | waiting for final release
+| JHOVE 1.34.0 | adding new JHOVE version to FL | Q3 2025 | 8.3120 | plugins | ANZ | RC testing
 | DROID 6.9.3 | adding new DROID version | Q3 2025 | NA | PRONOM | ANZ | planned
 | Format library refresh  | making format names and versions consistent with PRONOM for PUIDs up to fmt/1446 (it was updated since fmt/1447) | will be continuously added to releases | 7.3108 on | Format Library | ANZ | ongoing
 | Application Library refresh | adding new applications and linking them to relevant formats - results from RWG Hackathon 2022 | will be continously added to releases | 7.3108 on | Application Library | ANZ/KBNL | ongoing; first set of applications added to 7.3108
